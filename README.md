@@ -18,5 +18,7 @@ Bare metal C-programming code for blinking on board LED and UART.
 10. Configure serial monitor on VS Code or similar to test the UART communication.
 
 ## 2. ItsyBitsy - AtMega32u4:
+
 ## 3. STM32F407VG Discovery Board:
+
 ## 4. STM32F411RE Nucleo Board:
